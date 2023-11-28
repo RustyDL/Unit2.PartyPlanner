@@ -3,9 +3,8 @@
   {
     "id": 1,
     "name": "Sample Party",
+    "description": "This is a sample party.",
     "date": "2023-12-01",
-    "time": "18:00",
-    "location": "Sample Location",
-    "description": "This is a sample party."
+    "location": "Sample Location"
   }
 ]

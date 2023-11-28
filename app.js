@@ -1,6 +1,6 @@
 // app.js
 document.addEventListener('DOMContentLoaded', () => {
-    const apiUrl = 'https://fsa-crud-2aa9294fe819.herokuapp.com/api/2109-CPU-RM-WEB-PT/events';
+    const apiUrl = 'https://fsa-crud-2aa9294fe819.herokuapp.com/api/2310-CPU-RM-WEB-PT/events';
 
     // Fetch party data from the API and render the list
     function fetchAndRenderParties() {
